@@ -1,1 +1,1 @@
-# gondex
+# gndx
